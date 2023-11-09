@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+}
+
+.nav-logo {
+    height: 50px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(248, 58, 58);
+    color: white;
+}
+
+.content-pic {
+    height: 250px;
+    width: 200px;
+    border-radius: 10px;
+
+}
+
+.content-details {
+    display: flex;
+    align-items: center;
+
+}
+
+.content-summary {
+    margin-top:0px;    
+}
+
+.maps {
+    margin-left: 10px;
+    text-decoration: underline;
+}
+
+.main-text {
+    width: 500px;
+}
+
