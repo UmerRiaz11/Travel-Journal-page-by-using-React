@@ -40,3 +40,14 @@ body {
     width: 500px;
 }
 
+.container {
+display: flex;
+}
+
+.main {
+    /* padding:0px 30px; */
+}
+
+.images {
+    padding:5px 20px;
+}
